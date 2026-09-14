@@ -14,7 +14,7 @@ Smoothly(ish) interpolates between different lattice frequencies.
 
 Automatically normalizes input scalar fields (stress/displacement) to control lattice density.
 
-Built on PyVista for efficient 3D processing and visualization.
+Built on PyVista for 3D processing and visualization.
 
 ## Installation
 
